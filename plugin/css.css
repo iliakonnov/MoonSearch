@@ -1,0 +1,19 @@
+.moonwalk_a {
+    text-align: center;
+    font-size: 1.2em;
+    height: 50%;
+    width: 75%;
+    margin: auto;
+    display: block;
+    color: #ffffff;
+    background: #3caa3c;
+    padding: 5px 5px 5px 5px;
+}
+
+.moonwalk_a:hover {
+    color: #ffffff;
+    background: #34C924;
+}
+.moonwalk_div {
+    height: 3em;
+}
